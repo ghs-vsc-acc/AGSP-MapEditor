@@ -1,0 +1,3 @@
+# AGSP-MapEditor (A map editor for AGSP)
+...
+---
